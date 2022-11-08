@@ -48,13 +48,6 @@
 
 <br></br>
 
-# Tugas - Pertemuan Ke - 7 | Affine Chiper
-
-**Daftar Isi**
-* [file main.py](#file-main.py)
-* [file BreakAffineCipher.py](#file-breakaffinecipher.py)
-* [Hasil / setelah di running](#hasil-/-setelah-di-running)
-
 Kodingan :
 
 ### file main.py
