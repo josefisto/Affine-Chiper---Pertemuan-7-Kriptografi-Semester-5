@@ -371,13 +371,13 @@ main();
 Output "Encrypt" :
 
 <p align="center">
-	<img src="ss/output(encrypt).png" alt="" width="1020" height="600">
+	<img src="ss/output(encrypt).png" alt="" width="560" height="720">
 </p>
 
 Output "Decrypt" :
 
 <p align="center">
-	<img src="ss/output(decrypt).png" alt="" width="1020" height="600">
+	<img src="ss/output(decrypt).png" alt="" width="560" height="720">
 </p>
 
 Sekian, terima kasih
